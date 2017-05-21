@@ -1,5 +1,3 @@
-package tetris;
-
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
